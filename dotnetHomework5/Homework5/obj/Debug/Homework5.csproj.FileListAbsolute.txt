@@ -1,0 +1,10 @@
+E:\CodeWork\c#work\Homework5\Homework5\bin\Debug\Homework5.exe.config
+E:\CodeWork\c#work\Homework5\Homework5\bin\Debug\Homework5.exe
+E:\CodeWork\c#work\Homework5\Homework5\bin\Debug\Homework5.pdb
+E:\CodeWork\c#work\Homework5\Homework5\obj\Debug\Homework5.csprojAssemblyReference.cache
+E:\CodeWork\c#work\Homework5\Homework5\obj\Debug\Homework5.Form1.resources
+E:\CodeWork\c#work\Homework5\Homework5\obj\Debug\Homework5.Properties.Resources.resources
+E:\CodeWork\c#work\Homework5\Homework5\obj\Debug\Homework5.csproj.GenerateResource.cache
+E:\CodeWork\c#work\Homework5\Homework5\obj\Debug\Homework5.csproj.CoreCompileInputs.cache
+E:\CodeWork\c#work\Homework5\Homework5\obj\Debug\Homework5.exe
+E:\CodeWork\c#work\Homework5\Homework5\obj\Debug\Homework5.pdb
