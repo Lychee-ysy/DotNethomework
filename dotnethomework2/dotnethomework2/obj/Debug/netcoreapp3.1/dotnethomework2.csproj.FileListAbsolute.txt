@@ -1,0 +1,13 @@
+E:\大三上\DotNet\dotnethomework2\dotnethomework2\bin\Debug\netcoreapp3.1\dotnethomework2.exe
+E:\大三上\DotNet\dotnethomework2\dotnethomework2\bin\Debug\netcoreapp3.1\dotnethomework2.deps.json
+E:\大三上\DotNet\dotnethomework2\dotnethomework2\bin\Debug\netcoreapp3.1\dotnethomework2.runtimeconfig.json
+E:\大三上\DotNet\dotnethomework2\dotnethomework2\bin\Debug\netcoreapp3.1\dotnethomework2.runtimeconfig.dev.json
+E:\大三上\DotNet\dotnethomework2\dotnethomework2\bin\Debug\netcoreapp3.1\dotnethomework2.dll
+E:\大三上\DotNet\dotnethomework2\dotnethomework2\bin\Debug\netcoreapp3.1\dotnethomework2.pdb
+E:\大三上\DotNet\dotnethomework2\dotnethomework2\obj\Debug\netcoreapp3.1\dotnethomework2.csprojAssemblyReference.cache
+E:\大三上\DotNet\dotnethomework2\dotnethomework2\obj\Debug\netcoreapp3.1\dotnethomework2.AssemblyInfoInputs.cache
+E:\大三上\DotNet\dotnethomework2\dotnethomework2\obj\Debug\netcoreapp3.1\dotnethomework2.AssemblyInfo.cs
+E:\大三上\DotNet\dotnethomework2\dotnethomework2\obj\Debug\netcoreapp3.1\dotnethomework2.csproj.CoreCompileInputs.cache
+E:\大三上\DotNet\dotnethomework2\dotnethomework2\obj\Debug\netcoreapp3.1\dotnethomework2.dll
+E:\大三上\DotNet\dotnethomework2\dotnethomework2\obj\Debug\netcoreapp3.1\dotnethomework2.pdb
+E:\大三上\DotNet\dotnethomework2\dotnethomework2\obj\Debug\netcoreapp3.1\dotnethomework2.genruntimeconfig.cache
